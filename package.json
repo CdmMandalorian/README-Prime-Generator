@@ -1,0 +1,23 @@
+{
+  "name": "readme-prime-generator",
+  "version": "1.0.0",
+  "description": "Clean README.md Generator",
+  "main": "script.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdmMandalorian/README-Prime-Generator.git"
+  },
+  "author": "Armando E Galindo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CdmMandalorian/README-Prime-Generator/issues"
+  },
+  "homepage": "https://github.com/CdmMandalorian/README-Prime-Generator#readme"
+}

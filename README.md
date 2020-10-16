@@ -61,6 +61,13 @@ THEN I am taken to the corresponding section of the README
 * The generated README includes 1 badge that's specific to the repository.
 
 
+## Screenshots of README.md Generator:
+<img src="/assets/img/primeReadMeScreenshoot.png">
+<img src="/assets/img/liveReadMEvideo.flv">
+
+## LIVE VIDEO OF README.md Generator:
+
+
 ## Repository:  
 [README Prime Generator](https://github.com/CdmMandalorian/README-Prime-Generator)  
 
