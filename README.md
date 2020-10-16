@@ -63,10 +63,12 @@ THEN I am taken to the corresponding section of the README
 
 ## Screenshots of README.md Generator:
 <img src="/assets/img/primeReadMeScreenshoot.png">
-<img src="/assets/img/liveReadMEvideo.flv">
 
-## LIVE VIDEO OF README.md Generator:
 
+## LIVE VIDEO GIF's OF README.md Generator:
+<img src="/assets/img/readMeGIFpart1.gif">
+
+<img src="/assets/img/readMeGIFpart2.gif">
 
 ## Repository:  
 [README Prime Generator](https://github.com/CdmMandalorian/README-Prime-Generator)  
