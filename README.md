@@ -66,9 +66,8 @@ THEN I am taken to the corresponding section of the README
 
   
 ## Portfolio:  
-[](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
+[Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
   
 ## Credits:                
 Javascript   
 Inquirer
-     
