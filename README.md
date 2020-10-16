@@ -68,7 +68,7 @@ THEN I am taken to the corresponding section of the README
 ## LIVE VIDEO GIF's OF README.md Generator:
 <img src="/assets/img/readMeGIFpart1.gif">
 
-<img src="/assets/img/readMeGIFpart2.gif">
+<img src="/assets/img/readMeGifpart2.gif">
 
 ## Repository:  
 [README Prime Generator](https://github.com/CdmMandalorian/README-Prime-Generator)  
