@@ -75,7 +75,7 @@ THEN I am taken to the corresponding section of the README
 
   
 ## Portfolio:  
-[Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
+[Armando Galindo Portfolio](https://cdmmandalorian.github.io/Armando-E-Galindo-Portfolio/)
   
 ## Credits:                
 Javascript   
